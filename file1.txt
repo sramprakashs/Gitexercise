@@ -1,2 +1,0 @@
-This is sample file 1
-This is line 2 of Sample file 1
